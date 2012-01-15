@@ -7,4 +7,4 @@
 (autoload 'furl--wrap-request                   "furl" "" nil 'macro)
 (autoload 'furl-retrieve                        "furl" "" nil)
 (autoload 'furl-retrieve-synchronously          "furl" "" nil)
-(provide 'lib-furl-epkg-autoloads)
+(provide 'lib-furl-epackage-autoloads)
